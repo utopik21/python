@@ -1,0 +1,3 @@
+# variables globales : chemin vers les sources, nombre de villes maxi etc...
+CITIES_CSV_FILE = "datas/villes_france.csv"
+SCHOOLS_CSV_FILE = "datas/lycees.csv"
